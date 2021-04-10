@@ -3,7 +3,7 @@ program untuk melakukan kegiatan proses perizinan cuti kerja
 setting database mysql :
   host="localhost", user="root", passwd="", database="db_cuti"
   
-  tnama tabel = karyawan
+  nama tabel = karyawan
 
 jalankan program main_cuti.py dan setting konfigurasi untuk database-nya
 
